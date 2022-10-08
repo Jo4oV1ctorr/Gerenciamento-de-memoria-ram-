@@ -1,5 +1,5 @@
 # Gerenciamento de memoria ram 
- Programa de gerenciamento de memória ram e importações de módulo com o node.js e Js, e  visualizações de consumo de ram pelo navegador  
+ Programa de gerenciamento de memória ram e importações de módulo com o node.js e Js, e  visualizações de consumo de ram pelo browser 
  
  
  ![image](https://user-images.githubusercontent.com/91574246/194680958-7647be58-d748-4aff-ac36-3b8ee20099d8.png)
